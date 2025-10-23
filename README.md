@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 # About me:
  + He/Him
- + 17 years old
+ + 18 years old
  + Currently just trying to improve my coding abilities in Python
  + I enjoy playing rhythm games and other video games
 
